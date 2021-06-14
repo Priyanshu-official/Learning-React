@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn-like {
+  width: 6rem;
+  padding: 0.5rem;
+  background-color: white;
+  border: 1px solid black;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.inputText {
+  padding: 1rem;
+  width: 50%;
+}
