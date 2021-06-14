@@ -25,8 +25,8 @@ export default function App() {
           Like <span style={{ color: "blue" }}> Counter! </span>
         </h1>
         <button className="btn-like" onClick={clickHandler}>
-          Like Me!{" "}
-        </button>{" "}
+          Like Me!
+        </button>
         {likeCounter}
       </div>
       <br />
