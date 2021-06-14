@@ -31,7 +31,7 @@ export default function App() {
       </div>
       <br />
       <hr />
-      {/* On Chnage Text View */}
+      {/* On Change Text View */}
       <div className="changeInput">
         <h1>
           {" "}
